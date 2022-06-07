@@ -1,5 +1,5 @@
 #RUS - Среди промежутка найти те числа, у которых сумма цифр кратна 11, произведение цифр кратно трем и не равно 0
-#ENG - Among the interval find those numbers in which the sum of the digits is a multiple of 11, the product of the digits is a multiple of three and not equal to 0
+#ENG - Among the interval find numbers whose sum of digits is divisible by 11, multiplication of digits is divisible by 3 and not equal to 0
 
 def digit_sum(x):
     s = 0
