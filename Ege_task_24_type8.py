@@ -1,5 +1,5 @@
 #RUS - найдите количество 200 в строке
-#ENG - find count 200 in line
+#ENG - find count 200 in lineю
 
 f = open('EGE_24_02_29.txt')
 
